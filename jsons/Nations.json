@@ -199,9 +199,6 @@
 			"Free [Merchant of Venice] appears <upon discovering [Optics] technology>",
 			"[Great Merchant] is earned [+25]% faster",
 			"Cannot build [Settler] units",
-			"May choose [2] additional [Founder] beliefs when [founding] a religion <if [Better pantheon fixed] is enabled> <hidden from users>",
-                	"May choose [1] additional [Enhancer] beliefs when [enhancing] a religion <if [Better pantheon fixed] is enabled> <hidden from users>",
-                	"May choose [2] additional belief(s) of any type when [enhancing] a religion <if [Better pantheon fixed] is enabled> <hidden from users>"
 		],
 		"cities": ["Venice"]
 	},
